@@ -96,6 +96,6 @@ $ git flow release start 0.1.0
 Для завершения работы на ветке релиза, используйте следующие команды:
 
 ```bash
-$ git flow release finish 0.1.0
+$ git flow release finish '0.1.0'
 ```
 
